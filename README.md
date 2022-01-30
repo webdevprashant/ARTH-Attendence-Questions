@@ -81,3 +81,47 @@ Right Node <br>
 Ex :- A(root node) , B (left Node), C, Right node.  <br>
 OUTPUT :-. A, B, C  <br>
 
+
+                                                            *ARTH 2.0 28 January 2022*
+                                                            
+                                                            1. What is strict binary tree ?
+1. What is space and time complexity of pre-order traversal ?  <br>
+2. What is in-order traversal ?  <br>
+3. What is space and time complexity of in-order traversal ? <br>
+4. What is post-order traversal ?  <br>
+5. What is space and time complexity of post-order traversal ?  <br>
+
+
+1. A tree which contains max 2 childs(Node) and min 0 child(Node) called Strict binary tree.  <br>
+2. Space and time complexity of pre order traversal is O(n).         <br>
+3. It is one kind of traversal belongs to Depth first, which use algorithm in sequence.  <br>
+Approach / Algorithm :-  <br>
+
+Left Node  <br>
+|  <br>
+|  <br>
+Root Node  <br>
+|  <br>
+|  <br>
+Right Node  <br>
+
+Ex :- A(root node) , B (left Node), C, Right node.  <br>
+OUTPUT :-. B, A, C  <br>
+
+4. Space complexity :- O(n) <br>
+Time Complexity :- O(n)  <br>
+5. It is one kind of traversal belongs to Depth first, which use algorithm in sequence.  <br>
+Approach / Algorithm :-   <br>
+
+Left Node    <br>
+|   <br>
+|   <br>
+Right Node     <br>
+|  <br>
+|   <br>
+Root Node  <br>
+
+Ex :- A(root node) , B (left Node), C, Right node.  <br>
+OUTPUT :-. B, C, A   <br>
+6. Space complexity :- O(n)    <br>
+Time complexity :- O(n)     <br>
