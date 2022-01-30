@@ -44,3 +44,40 @@ Ex - espeak-ng -v hi+f2 Hello Sir  <br>
 12. Ps displays s snapshot of current process running. We can use multiple options like ps -aux which shows all process running in system.  <br>
 13. Background run - gedit &, firefox &  <br>
 To Stop This process - ctrl + z   <br>
+
+
+
+                                                            27 January
+
+1) What is difference between linear and nonlinear ?   <br>
+2) What is the example of linear and non-linear ?  <br>
+3) How many ways is there for Travers Binary Tree and which ones ? <br>
+4) What is difference between Depth first traversal and Breadth first traversal?<br>
+5) What is approach for traverse using pre-order ?<br>
+
+
+1. Linear data structures means every item order is straight like array , linked list.    <br>
+Non Linear Data structure means items are not in straight way like Tree. So Tree is non linear data structure. <br>
+2. Linear DS :- Array, Linked list  <br>
+Non Linear DS :- Tree.  <br>
+3. 4 ways.  <br>
+Depth first Search (Traverse) <br>
+- In order Traverse <br>
+- Pre order Traverse <br>
+- Post order Traverse <br>
+Breath first Search (Traverse) <br>
+- Level order Traverse. <br>
+4. Depth first :- 1st from tree go to sub trees, categories until reach to leaf nodes then pick items 1st we go depth instead seeing entire picture of tree called Depth first Traverse. <br>
+Breath first :- In breath first we find shortest path which closure to source. <br>
+5. Approach / Algorithm :-   <br>
+Root Node  <br>
+|  <br>
+|  <br>
+Left Node <br>
+|  <br>
+|  <br>
+Right Node <br>
+
+Ex :- A(root node) , B (left Node), C, Right node.  <br>
+OUTPUT :-. A, B, C  <br>
+
