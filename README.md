@@ -47,7 +47,7 @@ To Stop This process - ctrl + z   <br>
 
 
 
-                                                            27 January
+                                                             *ARTH 2.0 27 January 2022*
 
 1) What is difference between linear and nonlinear ?   <br>
 2) What is the example of linear and non-linear ?  <br>
